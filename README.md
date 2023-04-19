@@ -1,2 +1,2 @@
-# CS200
- All projects from CS200
+# 1.0 Projects
+All projects from 1.0
