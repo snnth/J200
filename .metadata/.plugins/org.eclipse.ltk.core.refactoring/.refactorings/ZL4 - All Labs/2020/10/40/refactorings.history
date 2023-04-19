@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;maxNumber&apos; in &apos;Max.maxFive(...)&apos; to &apos;maxFound&apos;&#x0D;&#x0A;- Original project: &apos;zyLab 4&apos;&#x0D;&#x0A;- Original element: &apos;Max.maxFive(int, int, int, int, int).maxNumber&apos;&#x0D;&#x0A;- Renamed element: &apos;maxNumber&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;maxNumber&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Max.java[Max~maxFive~I~I~I~I~I@maxNumber!980!997!984!992!I!0!false" name="maxFound" references="true" stamp="1601611556273" version="1.0"/>
+</session>

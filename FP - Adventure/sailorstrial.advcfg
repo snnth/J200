@@ -1,0 +1,22 @@
+These configuration lines may exceed 100 characters.
+Each line starting with a coordinate (row,colum) gives the field/attribute values for that location in the map.
+The first set of integer coordinates at the beginning of a line in this file (e.g., 8,6/size/...) is the overall
+size (number of rows and number of columns) of the map to be used to create the internal map array.
+The line with the 'start' name (e.g., 0,4/start/...) is the starting location of the player.
+
+Coordinates/Name/Enter Text/Enter Result/Nearby Text/
+5,10/size/This is the size of the map///
+2,1/start/Lost at sea, out running a store, and blind from disease you navigate your way to the shore that's nearby. Good luck.///
+3,8/island/Incredible, you made it! Here's an orange; let's get you healed up./win/You hear seagulls in the distance.../
+2,4/kraken/The kraken has destroyed your ship./lose/The wind picks up... the air has gotten cooler.../
+4,8/kraken/The kraken has destroyed your ship./lose/The wind picks up... the air has gotten cooler.../
+3,9/rock/All you felt was the rock hit and tear through your ship as you sank to the ocean floor./lose/You hear more splashing than normal.../
+0,1/rock/All you felt was the rock hit and tear through your ship as you sank to the ocean floor./lose/You hear more splashing than normal.../
+1,3/mermaid/A mermaid had guided you elsewhere. Hopefully you're closer than you were./randomMove/You hear... singing?/
+2,6/mermaid/A mermaid had guided you elsewhere. Hopefully you're closer than you were./randomMove/You hear... singing?/
+4,2/mermaid/A mermaid had guided you elsewhere. Hopefully you're closer than you were./randomMove/You hear... singing?/
+0,9/storm/The storm flooded your ship./lose//
+1,0/storm/The storm flooded your ship./lose//
+2,0/storm/The storm flooded your ship./lose//
+3,0/storm/The storm flooded your ship./lose//
+4,9/storm/The storm flooded your ship./lose//

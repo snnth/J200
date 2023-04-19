@@ -1,0 +1,7 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Maze"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.awt.event.ActionListener"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.util.EventListener"><rhs name\="CondMazeLab"/></lhs><lhs name\="javax.swing.event.ChangeListener"><rhs name\="CondMazeLab"/></lhs><lhs name\="javax.swing.JFrame"><rhs name\="CondMazeLab"/></lhs><lhs name\="javax.swing.WindowConstants"><rhs name\="CondMazeLab"/></lhs><lhs name\="javax.accessibility.Accessible"><rhs name\="CondMazeLab"/></lhs><lhs name\="javax.swing.RootPaneContainer"><rhs name\="CondMazeLab"/></lhs><lhs name\="javax.swing.TransferHandler$HasGetTransferHandler"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.awt.Frame"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.awt.MenuContainer"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.awt.Window"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.awt.Container"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.awt.Component"><rhs name\="CondMazeLab"/></lhs><lhs name\="java.awt.image.ImageObserver"><rhs name\="CondMazeLab"/></lhs><lhs name\="CondMazeLab"><rhs name\="CondMazeLab"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

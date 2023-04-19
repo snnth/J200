@@ -1,0 +1,7 @@
+|              |   rock       |              |              |              |              |              |              |              |   storm      |
+|   storm      |              |              |   mermaid    |              |              |              |              |              |              |
+|   storm      | * start      |              |              |   kraken     |              |   mermaid    |              |              |              |
+|   storm      |              |              |              |              |              |              |              |   island     |   rock       |
+|              |              |   mermaid    |              |              |              |              |              |   kraken     |   storm      |
+
+*   Current Player Location

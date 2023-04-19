@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+D:\OneDrive - UW-Madison\2020 - 2021\Fall\CompSci 200\_code\.metadata\.plugins\org.eclipse.jdt.core
+2196199803.index
+1625567769.index
+3472184564.index
+2039709166.index
+1068720296.index
+1918841364.index
+1989383422.index
+2036260578.index
+1072846548.index
+2757681214.index
+1467159341.index
+325588460.index
+79570899.index
+643929012.index
