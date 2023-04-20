@@ -7,7 +7,7 @@ This is a repository of all my 1.0 projects.
 List
 ----
 
-### Adventure  
+**Adventure**  
 Ages  
 All Labs  
 Binary to Decimal  
