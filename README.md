@@ -3,7 +3,6 @@ Projects 1.0
 
 This is a repository of all my 1.0 projects.
 
-
 List
 ----
 
